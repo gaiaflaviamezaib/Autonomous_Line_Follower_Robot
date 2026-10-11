@@ -1,0 +1,5 @@
+numpy
+RPi.GPIO
+mpu6050-raspberrypi
+Adafruit-PCA9685
+luma.oled
