@@ -47,3 +47,5 @@ Stop any program with `Ctrl+C`.
 `robotControlClass.py` wraps the hardware (motors, servos, sensors, LEDs). The `*_vS.py` files are the low-level hardware drivers provided by the course.
 
 See [docs/run-guide.md](docs/run-guide.md) for presets and PID tuning.
+
+The grid planner has tests that run without the robot: `python -m pytest`.
